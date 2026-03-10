@@ -1,0 +1,17 @@
+# Cơ bản cho Data Science
+pandas
+matplotlib
+seaborn
+python-dotenv
+
+# LLM & Gemini
+langchain>=0.2.0
+langchain-google-genai
+langchain-experimental
+
+# UI
+streamlit
+pygwalker
+
+tabulate
+runcell  
